@@ -1,6 +1,3 @@
-
----
-
 # Eat n Split 🍽️
 **Eat n Split** is a React-based application that helps friends split bills one-on-one. The app allows users to easily calculate and manage how much each person owes, making splitting expenses quick and stress-free.
 
@@ -36,6 +33,10 @@
 1. Enter the total bill amount.
 2. Add friend details and their share of the bill.
 3. See how much each person owes or is owed.
+
+🔗 **Live Demo (Hosted on Vercel):**
+ [https://eat-n-split-rho-ten.vercel.app/](https://eat-n-split-rho-ten.vercel.app/)
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
