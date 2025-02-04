@@ -17,7 +17,7 @@
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/eat-n-split.git
+   git clone https://github.com/codesbysalman/eat-n-split.git
    ```
 2. Navigate to the project directory:
    ```sh
